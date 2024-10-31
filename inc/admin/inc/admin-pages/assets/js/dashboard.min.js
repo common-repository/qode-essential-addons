@@ -1,0 +1,1 @@
+!function(o){"use strict";"object"!=typeof qodefFramework&&(window.qodefFramework={}),qodefFramework.scroll=0,qodefFramework.windowWidth=o(window).width(),qodefFramework.windowHeight=o(window).height(),o(window).scroll(function(){qodefFramework.scroll=o(window).scrollTop()})}(jQuery);

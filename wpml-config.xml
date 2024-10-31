@@ -1,0 +1,160 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">qodef_post_format_gallery_images</custom-field>
+        <custom-field action="copy">qodef_post_format_video_url</custom-field>
+        <custom-field action="copy">qodef_post_format_audio_url</custom-field>
+        <custom-field action="copy">qodef_post_format_link</custom-field>
+        <custom-field action="translate">qodef_post_format_link_text</custom-field>
+        <custom-field action="translate">qodef_post_format_quote_text</custom-field>
+        <custom-field action="translate">qodef_post_format_quote_author</custom-field>
+        <custom-field action="copy">qodef_page_background_color</custom-field>
+        <custom-field action="copy">qodef_page_background_image</custom-field>
+        <custom-field action="copy">qodef_page_background_repeat</custom-field>
+        <custom-field action="copy">qodef_page_background_size</custom-field>
+        <custom-field action="copy">qodef_page_background_position</custom-field>
+        <custom-field action="copy">qodef_page_background_attachment</custom-field>
+        <custom-field action="copy">qodef_page_content_padding</custom-field>
+        <custom-field action="copy">qodef_page_content_padding_mobile</custom-field>
+        <custom-field action="copy">qodef_page_wrapper_padding</custom-field>
+        <custom-field action="copy">qodef_page_wrapper_padding_mobile</custom-field>
+        <custom-field action="copy">qodef_boxed</custom-field>
+        <custom-field action="copy">qodef_boxed_background_color</custom-field>
+        <custom-field action="copy">qodef_boxed_background_pattern</custom-field>
+        <custom-field action="copy">qodef_boxed_background_pattern_behavior</custom-field>
+        <custom-field action="copy">qodef_boxed_background_pattern_size</custom-field>
+        <custom-field action="copy">qodef_content_width</custom-field>
+        <custom-field action="copy">qodef_content_behind_header</custom-field>
+        <custom-field action="copy">qodef_header_layout</custom-field>
+        <custom-field action="copy">qodef_show_header_widget_areas</custom-field>
+        <custom-field action="copy">qodef_centered_header_in_grid</custom-field>
+        <custom-field action="copy">qodef_centered_header_height</custom-field>
+        <custom-field action="copy">qodef_centered_header_background_color</custom-field>
+        <custom-field action="copy">qodef_centered_header_border_color</custom-field>
+        <custom-field action="copy">qodef_centered_header_border_width</custom-field>
+        <custom-field action="copy">qodef_centered_header_border_style</custom-field>
+        <custom-field action="copy">qodef_minimal_header_in_grid</custom-field>
+        <custom-field action="copy">qodef_minimal_header_height</custom-field>
+        <custom-field action="copy">qodef_minimal_header_side_padding</custom-field>
+        <custom-field action="copy">qodef_minimal_header_background_color</custom-field>
+        <custom-field action="copy">qodef_minimal_header_border_color</custom-field>
+        <custom-field action="copy">qodef_minimal_header_border_width</custom-field>
+        <custom-field action="copy">qodef_minimal_header_border_style</custom-field>
+        <custom-field action="copy">qodef_standard_header_in_grid</custom-field>
+        <custom-field action="copy">qodef_standard_header_height</custom-field>
+        <custom-field action="copy">qodef_standard_header_side_padding</custom-field>
+        <custom-field action="copy">qodef_standard_header_background_color</custom-field>
+        <custom-field action="copy">qodef_standard_header_border_color</custom-field>
+        <custom-field action="copy">qodef_standard_header_border_width</custom-field>
+        <custom-field action="copy">qodef_standard_header_border_style</custom-field>
+        <custom-field action="copy">qodef_standard_header_menu_position</custom-field>
+        <custom-field action="copy">qodef_standard_header_widgets_side_margin</custom-field>
+        <custom-field action="copy">qodef_vertical_header_background_color</custom-field>
+        <custom-field action="copy">qodef_header_scroll_appearance</custom-field>
+        <custom-field action="copy">qodef_sticky_header_appearance</custom-field>
+        <custom-field action="copy">qodef_sticky_header_scroll_amount</custom-field>
+        <custom-field action="copy">qodef_sticky_header_side_padding</custom-field>
+        <custom-field action="copy">qodef_sticky_header_background_color</custom-field>
+        <custom-field action="copy">qodef_sticky_header_custom_widget_area_one</custom-field>
+        <custom-field action="copy">qodef_sticky_header_custom_widget_area_two</custom-field>
+        <custom-field action="copy">qodef_sticky_header_height</custom-field>
+        <custom-field action="copy">qodef_sticky_header_border_color</custom-field>
+        <custom-field action="copy">qodef_sticky_header_border_width</custom-field>
+        <custom-field action="copy">qodef_sticky_header_border_style</custom-field>
+        <custom-field action="copy">qodef_sticky_header_box_shadow</custom-field>
+        <custom-field action="copy">qodef_top_area_header</custom-field>
+        <custom-field action="copy">qodef_top_area_header_in_grid</custom-field>
+        <custom-field action="copy">qodef_set_top_area_header_content_alignment</custom-field>
+        <custom-field action="copy">qodef_top_area_header_height</custom-field>
+        <custom-field action="copy">qodef_top_area_header_side_padding</custom-field>
+        <custom-field action="copy">qodef_top_area_header_background_color</custom-field>
+        <custom-field action="copy">qodef_top_area_header_border_color</custom-field>
+        <custom-field action="copy">qodef_top_area_header_border_width</custom-field>
+        <custom-field action="copy">qodef_top_area_header_border_style</custom-field>
+        <custom-field action="copy">qodef_logo_height</custom-field>
+        <custom-field action="copy">qodef_logo_main</custom-field>
+        <custom-field action="copy">qodef_logo_padding</custom-field>
+        <custom-field action="copy">qodef_logo_source</custom-field>
+        <custom-field action="copy">qodef_page_sidebar_layout</custom-field>
+        <custom-field action="copy">qodef_enable_page_title</custom-field>
+        <custom-field action="copy">qodef_title_layout</custom-field>
+        <custom-field action="copy">qodef_set_page_title_area_in_grid</custom-field>
+        <custom-field action="copy">qodef_page_title_height</custom-field>
+        <custom-field action="copy">qodef_page_title_height_on_smaller_screens</custom-field>
+        <custom-field action="copy">qodef_page_title_background_color</custom-field>
+        <custom-field action="copy">qodef_page_title_background_image</custom-field>
+        <custom-field action="copy">qodef_page_title_background_image_behavior</custom-field>
+        <custom-field action="copy">qodef_page_title_border_color</custom-field>
+        <custom-field action="copy">qodef_page_title_border_width</custom-field>
+        <custom-field action="copy">qodef_page_title_border_style</custom-field>
+        <custom-field action="copy">qodef_page_title_color</custom-field>
+        <custom-field action="copy">qodef_page_title_tag</custom-field>
+        <custom-field action="copy">qodef_page_title_text_alignment</custom-field>
+        <custom-field action="copy">qodef_page_title_vertical_text_alignment</custom-field>
+        <custom-field action="copy">qodef_page_title_side_padding</custom-field>
+        <custom-field action="copy">qodef_page_title_side_padding_mobile</custom-field>
+        <custom-field action="copy">qodef_page_breadcrumbs_tag</custom-field>
+        <custom-field action="translate">qodef_page_title_subtitle</custom-field>
+        <custom-field action="copy">qodef_page_subtitle_tag</custom-field>
+        <custom-field action="copy">qodef_page_title_subtitle_color</custom-field>
+        <custom-field action="copy">qodef_page_title_subtitle_top_margin</custom-field>
+        <custom-field action="copy">qodef_portfolio_single_layout</custom-field>
+        <custom-field action="copy">qodef_portfolio_media</custom-field>
+        <custom-field action="copy">qodef_portfolio_columns_number</custom-field>
+        <custom-field action="copy">qodef_portfolio_space_between_items</custom-field>
+        <custom-field action="translate">qodef_portfolio_info_items</custom-field>
+        <custom-field action="copy">qodef_portfolio_list_image</custom-field>
+        <custom-field action="copy">qodef_masonry_image_dimension_portfolio_item</custom-field>
+        <custom-field action="copy">qodef_portfolio_item_padding</custom-field>
+        <custom-field action="copy">qodef_portfolio_single_back_to_link</custom-field>
+        <custom-field action="copy">qodef_portfolio_single_content_order</custom-field>
+        <custom-field action="copy">qodef_portfolio_single_info_item_text_position</custom-field>
+        <custom-field action="copy">qodef_product_list_image</custom-field>
+        <custom-field action="copy">qodef_masonry_image_dimension_product</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">portfolio-item</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio-category</taxonomy>
+        <taxonomy translate="1">portfolio-tag</taxonomy>
+    </taxonomies>
+    <elementor-widgets>
+        <widget name="qode_essential_addons_blog_list">
+            <fields>
+                <field>custom_class</field>
+                <field>post_ids</field>
+                <field>tax_slug</field>
+                <field>tax__in</field>
+                <field>author_slug</field>
+            </fields>
+        </widget>
+        <widget name="qode_essential_addons_product_list">
+            <fields>
+                <field>custom_class</field>
+                <field>post_ids</field>
+                <field>tax_slug</field>
+                <field>tax__in</field>
+                <field>author_slug</field>
+            </fields>
+        </widget>
+        <widget name="qode_essential_addons_portfolio_list">
+            <fields>
+                <field>custom_class</field>
+                <field>post_ids</field>
+                <field>tax_slug</field>
+                <field>tax__in</field>
+                <field>author_slug</field>
+            </fields>
+        </widget>
+        <widget name="qode_essential_addons_restaurant_menu_list">
+            <fields>
+                <field>custom_class</field>
+            </fields>
+            <fields-in-item items_of="children">
+                <field>item_title</field>
+                <field>item_description</field>
+                <field>item_price</field>
+            </fields-in-item>
+        </widget>
+    </elementor-widgets>
+</wpml-config>
